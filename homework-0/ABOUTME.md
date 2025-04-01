@@ -1,0 +1,12 @@
+# About me
+- Languages (ranked by familiarty/comfortability)
+    - Java
+    - Python
+    - LuaU
+    -  C, C++
+    -  R
+    -  SQL
+- Most complicated/accomplished program
+    - I would say the app we (me and a few other classmates) built in CSE 216. Although it wasn't fully functional, it was definitely the most ambitious programming project I've done. 
+- Goals for this class
+    - Gain experience programming in different languages   
